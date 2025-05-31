@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MappingWithdrawls.sol": "Mapping"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MappingWithdrawls.sol": {
+			"keccak256": "0x7052d2cf30e217100dfb9f23f3664cae36a382ca3b67a1ba09522ccae4d3ac80",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0072a880c97926869c4cc64ec60bb2fa9949e008890c48f325a256bd67900565",
+				"dweb:/ipfs/QmamQQbuSzmnYei9U7t4pcuFXCcW3sjSQ8FibFqJ9bAvPB"
+			]
+		}
+	},
+	"version": 1
+}
